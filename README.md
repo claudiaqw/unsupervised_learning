@@ -15,7 +15,6 @@ Para eliminar los outliers, se estandarizan los datos para que en el cálculo de
 ## Elección del número de clústers
 
 * Dendograma
-* Calinski
-* Harabasz
+* Calinski-Harabasz
 * Gráfico Silhouette
 
